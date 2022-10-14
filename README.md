@@ -25,6 +25,9 @@
 
 <!--- ## What I'm learning now / am going to learn / plan on learning in the future --->
 
+## Contact Me
+Mitchell Armstrong -- mra0211@gmail.com
+
 <!---
 ScarElite/ScarElite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
