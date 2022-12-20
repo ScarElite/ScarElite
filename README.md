@@ -1,7 +1,23 @@
 # Welcome to my GitHub profile!
 
 ## About Me...
-### Hi there, my name is Mitchell Armstrong. I'm currently enrolled in the UNC Chapel Hill Coding Bootcamp to learn how to become a Fullstack Web Developer. I originally looked into FrontEnd Simplified, while it was in its early stages, to become a front end developer. After a couple of days of coding I was hooked. I did some research on how to learn to code and be a successful developer without getting a college degree as I don't have the time or money for that. I found the Coding Bootcamp offered by UNC Chapel Hill and started my journey in July 2022! This program is 6 months long and ends in January 2023. Since starting this course I have learned so much and I'm eager to continue learning and become a Fullstack web developer. I absolutely love coding and I'm excited for all of the things I will create!
+Hi there, I'm a graduate of the UNC Chapel Hill Coding BootCamp that
+            teaches students how to become a Fullstack Web Developer. The
+            beginning of my coding journey was an accident. It was a time in my
+            life where nothing was going on for me and I was mindlessly
+            scrolling through social media. I came across the same ad for a
+            coding course, FrontEnd Simplified, many many times. I finally
+            decided to give it a try and after a couple of days of coding I was
+            hooked. People in my life always told me they could see me becoming
+            a web developer but I always thought it wouldn't be something I was
+            interested in and I was of course WRONG. I started to look for
+            another way that I could continue my journey and that's where I
+            found the Coding BootCamp offered by UNC Chapel Hill and I continued
+            my journey in July of 2022. This program is 6 months long and I
+            graduated in January of 2023. During the program I learned so much
+            and I'm eager to continue learning and become a better Fullstack Web
+            Developer. I absolutely love coding and I'm excited for all of the
+            things I will create!
 
 ## Technology Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
