@@ -21,8 +21,8 @@ Hi there, I'm a graduate of the UNC Chapel Hill Coding Boot Camp that teaches st
 
 <!--- ## What I'm learning now / am going to learn / plan on learning in the future --->
 
-## Contact Me
-Mitchell Armstrong -- mra0211@gmail.com
+## Visit my Portfolio!
+https://m-armstrong-portfolio.herokuapp.com/
 
 <!---
 ScarElite/ScarElite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
