@@ -11,11 +11,6 @@ Hi there, I'm a graduate of the UNC Chapel Hill Coding Boot Camp that teaches st
 ![mysql (1)](https://user-images.githubusercontent.com/107076251/210156327-f8e6318d-6b6d-4364-8eeb-7b778913657e.png)
 ![react](https://user-images.githubusercontent.com/107076251/210156403-bb4453e0-1c66-4201-917b-93a1e19702ca.png)
 ![heroku](https://user-images.githubusercontent.com/107076251/210156362-8c2bad65-f355-41ea-a16e-5010357549ae.png)
-<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-712df9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-00d1b2.svg?style=for-the-badge&logo=bulma&logoColor=white) -->
-<!-- ![Git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-272b33?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-42a5ea?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
 
 <!--- ## What I'm learning now / am going to learn / plan on learning in the future --->
 
